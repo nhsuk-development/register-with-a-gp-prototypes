@@ -1,6 +1,6 @@
 {
   "name": "register-with-a-gp-prototypes",
-  "version": "3.0.3",
+  "version": "1.0.0",
   "description": "Register with a GP design prototypes",
   "main": "server.js",
   "scripts": {
